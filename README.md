@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
-My name is Rogelio Cedeño Moreno, and I'm a Phd in Mecatronics (applied Machine learning) specialice in the development and deploiment of ML model for the medical and industry fields. 
+My name is Rogelio Cedeño Moreno, and I'm a Phd in Mecatronics (applied Machine learning) specialice in the development and deployment of Machine learning models for the medical and industrial fields.
 
 - 🔭 I currently work as a lead computer vision specialist developing biomechanical analyses for dynamic tasks, such as measuring the Q angle and the transition from sitting to standing.
 - 🌱 I am currently learning best practices for implementing models through Azure with proper MLOps oversight and CI/CD methodologies, and I am open to discussing and continuing to learn from anyone interested in sharing some of their experience.
